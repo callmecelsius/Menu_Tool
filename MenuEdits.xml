@@ -220,8 +220,8 @@
     <idNum>18</idNum>
     <Category>Snacks </Category>
     <Name>Fried Tofu</Name>
-    <Price_1>zxczx</Price_1>
-    <Price_2>zxc</Price_2>
+    <Price_1></Price_1>
+    <Price_2></Price_2>
     <Price_3 />
     <Price_4 />
   </item>
@@ -730,8 +730,8 @@ Caramel Milk Tea</Name>
     <idNum>57</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Lychee Twist</Name>
-    <Price_1>sad</Price_1>
-    <Price_2>AX</Price_2>
+    <Price_1></Price_1>
+    <Price_2></Price_2>
     <Price_3 />
     <Price_4 />
     <Description />
