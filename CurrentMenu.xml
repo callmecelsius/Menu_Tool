@@ -246,7 +246,7 @@
     <Name>Vermicelli Bowl</Name>
     <Price_1>11.95</Price_1>
     <Price_2>12.95</Price_2>
-    <Price_3>12.20</Price_3>
+    <Price_3>1.75</Price_3>
     <Price_4 />
     <Description>-Choice Of Meat With Lettuce, Carrots, Daikon, Cucumber, And Fish Sauce</Description>
   </item>
@@ -256,12 +256,22 @@
     <Name>Grilled Rice Plate</Name>
     <Price_1>11.95</Price_1>
     <Price_2>12.95</Price_2>
-    <Price_3>12.20</Price_3>
+    <Price_3>1.75</Price_3>
     <Price_4 />
     <Description>-Choice Of Meat With Lettuce, Carrots, Daikon, and Cucumber</Description>
   </item>
   <item>
     <idNum>26</idNum>
+    <Category>Entree </Category>
+    <Name>Egg or Eggrolls Addon</Name>
+    <Price_1>1.75</Price_1>
+    <Price_2></Price_2>
+    <Price_3></Price_3>
+    <Price_4 />
+    <Description></Description>
+  </item>
+  <item>
+    <idNum>27</idNum>
     <Category>Desserts </Category>
     <Name>Macaroon</Name>
     <Price_1>1.65</Price_1>
@@ -271,7 +281,7 @@
     <Description />
   </item>
   <item>
-    <idNum>27</idNum>
+    <idNum>28</idNum>
     <Category>Desserts </Category>
     <Name>Waffle</Name>
     <Price_1>5.25</Price_1>
@@ -281,7 +291,7 @@
     <Description />
   </item>
   <item>
-    <idNum>28</idNum>
+    <idNum>29</idNum>
     <Category>Desserts </Category>
     <Name>Flan</Name>
     <Price_1>2.75</Price_1>
@@ -291,7 +301,7 @@
     <Description />
   </item>
   <item>
-    <idNum>29</idNum>
+    <idNum>30</idNum>
     <Category>Desserts </Category>
     <Name>Cream Puff Box</Name>
     <Price_1>6.00</Price_1>
@@ -301,7 +311,7 @@
     <Description>(5ct)</Description>
   </item>
   <item>
-    <idNum>30</idNum>
+    <idNum>31</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Avocado Blitz</Name>
     <Price_1>6.25</Price_1>
@@ -311,7 +321,7 @@
     <Description>-Tapioca, Combo Jellies,Coconut &amp; Condensed Milk</Description>
   </item>
   <item>
-    <idNum>31</idNum>
+    <idNum>32</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Pandan Special</Name>
     <Price_1>6.15</Price_1>
@@ -322,7 +332,7 @@
 Coconut Milk</Description>
   </item>
   <item>
-    <idNum>32</idNum>
+    <idNum>33</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Paradise</Name>
     <Price_1>6.15</Price_1>
@@ -333,7 +343,7 @@ Coconut Milk</Description>
 Tapioca</Description>
   </item>
   <item>
-    <idNum>33</idNum>
+    <idNum>34</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Tropix</Name>
     <Price_1>6.15</Price_1>
@@ -344,7 +354,7 @@ Tapioca</Description>
 Tapioca, &amp;  Coconut Milk</Description>
   </item>
   <item>
-    <idNum>34</idNum>
+    <idNum>35</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Artichoke Drink</Name>
     <Price_1>5.25</Price_1>
@@ -354,7 +364,7 @@ Tapioca, &amp;  Coconut Milk</Description>
     <Description>-Artichoke Tea, Basil Seeds, Grass Jelly, Rainbow Jellies,  &amp; Longan</Description>
   </item>
   <item>
-    <idNum>35</idNum>
+    <idNum>36</idNum>
     <Category>Dessert Drinks</Category>
     <Name>Coconut Kumquat</Name>
     <Price_1>5.25</Price_1>
@@ -364,7 +374,7 @@ Tapioca, &amp;  Coconut Milk</Description>
     <Description>-Coconut Juice, Coconut Meat,  &amp; Kumquat</Description>
   </item>
   <item>
-    <idNum>36</idNum>
+    <idNum>37</idNum>
     <Category>Blended Ice</Category>
     <Name>Strawberry
 Matcha
@@ -386,7 +396,7 @@ Jackfruit
     <Description />
   </item>
   <item>
-    <idNum>37</idNum>
+    <idNum>38</idNum>
     <Category>Blended Ice</Category>
     <Name>Blueberry Banana
 Strawberry Banana
@@ -400,7 +410,7 @@ Cookies n Cream
     <Description />
   </item>
   <item>
-    <idNum>38</idNum>
+    <idNum>39</idNum>
     <Category>Blended Ice</Category>
     <Name>Papaya</Name>
     <Price_1>6.25</Price_1>
@@ -410,7 +420,7 @@ Cookies n Cream
     <Description />
   </item>
   <item>
-    <idNum>39</idNum>
+    <idNum>40</idNum>
     <Category>Blended Ice</Category>
     <Name>Avocado</Name>
     <Price_1>6.25</Price_1>
@@ -420,7 +430,7 @@ Cookies n Cream
     <Description />
   </item>
   <item>
-    <idNum>40</idNum>
+    <idNum>41</idNum>
     <Category>Blended Ice</Category>
     <Name>Watermelon</Name>
     <Price_1>6.25</Price_1>
@@ -430,37 +440,7 @@ Cookies n Cream
     <Description />
   </item>
   <item>
-    <idNum>41</idNum>
-    <Category>Blended Ice</Category>
-    <Name>Greener Gee</Name>
-    <Price_1>6.95</Price_1>
-    <Price_2 />
-    <Price_3 />
-    <Price_4 />
-    <Description />
-  </item>
-  <item>
     <idNum>42</idNum>
-    <Category>Blended Ice</Category>
-    <Name>Pom Power</Name>
-    <Price_1>6.95</Price_1>
-    <Price_2 />
-    <Price_3 />
-    <Price_4 />
-    <Description />
-  </item>
-  <item>
-    <idNum>43</idNum>
-    <Category>Blended Ice</Category>
-    <Name>Mangonada</Name>
-    <Price_1>6.25</Price_1>
-    <Price_2 />
-    <Price_3 />
-    <Price_4 />
-    <Description />
-  </item>
-  <item>
-    <idNum>44</idNum>
     <Category>Blended Ice</Category>
     <Name>Kiwi</Name>
     <Price_1>6.25</Price_1>
@@ -470,7 +450,37 @@ Cookies n Cream
     <Description />
   </item>
   <item>
+    <idNum>43</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Greener Gee</Name>
+    <Price_1>6.95</Price_1>
+    <Price_2 />
+    <Price_3 />
+    <Price_4 />
+    <Description />
+  </item>
+  <item>
+    <idNum>44</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Pom Power</Name>
+    <Price_1>6.95</Price_1>
+    <Price_2 />
+    <Price_3 />
+    <Price_4 />
+    <Description />
+  </item>
+  <item>
     <idNum>45</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Mangonada</Name>
+    <Price_1>6.25</Price_1>
+    <Price_2 />
+    <Price_3 />
+    <Price_4 />
+    <Description />
+  </item>
+  <item>
+    <idNum>46</idNum>
     <Category>Fusion Tea</Category>
     <Name>Lychee
 Pomegranate
@@ -494,7 +504,7 @@ Grape
     <Description />
   </item>
   <item>
-    <idNum>46</idNum>
+    <idNum>47</idNum>
     <Category>Fusion Tea</Category>
     <Name>Longan
 Honey Oolong
@@ -509,7 +519,7 @@ Peach Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>47</idNum>
+    <idNum>48</idNum>
     <Category>Milk Tea</Category>
     <Name>Jasmine Milk Tea
 Black Milk Tea
@@ -527,7 +537,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>48</idNum>
+    <idNum>49</idNum>
     <Category>Milk Tea</Category>
     <Name>Brown Sugar Fresh Milk</Name>
     <Price_1>5.50</Price_1>
@@ -537,7 +547,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>49</idNum>
+    <idNum>50</idNum>
     <Category>Milk Tea</Category>
     <Name>Coffee Milk Tea</Name>
     <Price_1>5.50</Price_1>
@@ -547,7 +557,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>50</idNum>
+    <idNum>51</idNum>
     <Category>Milk Tea</Category>
     <Name>Pandan Leaf's #1</Name>
     <Price_1>5.95</Price_1>
@@ -557,7 +567,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>51</idNum>
+    <idNum>52</idNum>
     <Category>Milk Tea</Category>
     <Name>Pandan Leaf's #2</Name>
     <Price_1>5.75</Price_1>
@@ -567,7 +577,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>52</idNum>
+    <idNum>53</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Coconut Peach</Name>
     <Price_1>5.75</Price_1>
@@ -577,7 +587,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>53</idNum>
+    <idNum>54</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Passion Jackfruit</Name>
     <Price_1>5.75</Price_1>
@@ -587,7 +597,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>54</idNum>
+    <idNum>55</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Strawberry Mango</Name>
     <Price_1>5.75</Price_1>
@@ -597,7 +607,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>55</idNum>
+    <idNum>56</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Kiwi Berry</Name>
     <Price_1>5.75</Price_1>
@@ -607,7 +617,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>56</idNum>
+    <idNum>57</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Big Berry</Name>
     <Price_1>5.75</Price_1>
@@ -617,20 +627,10 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>57</idNum>
+    <idNum>58</idNum>
     <Category>Four Seasons Tea</Category>
     <Name>Lychee Twist</Name>
     <Price_1>5.75</Price_1>
-    <Price_2 />
-    <Price_3 />
-    <Price_4 />
-    <Description />
-  </item>
-  <item>
-    <idNum>58</idNum>
-    <Category>Four Seasons Tea</Category>
-    <Name>Fresh Fruit Tea</Name>
-    <Price_1>6.25</Price_1>
     <Price_2 />
     <Price_3 />
     <Price_4 />
@@ -658,6 +658,16 @@ Caramel Milk Tea</Name>
   </item>
   <item>
     <idNum>61</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Fresh Fruit Tea</Name>
+    <Price_1>6.25</Price_1>
+    <Price_2 />
+    <Price_3 />
+    <Price_4 />
+    <Description />
+  </item>
+  <item>
+    <idNum>62</idNum>
     <Category>Coffee </Category>
     <Name>Vietnamese Coffee</Name>
     <Price_1>5.25</Price_1>
@@ -667,7 +677,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>62</idNum>
+    <idNum>63</idNum>
     <Category>Coffee </Category>
     <Name>Hazelnut Mocha</Name>
     <Price_1>5.25</Price_1>
@@ -677,7 +687,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>63</idNum>
+    <idNum>64</idNum>
     <Category>Coffee </Category>
     <Name>Signature Viet Coffee</Name>
     <Price_1>5.95</Price_1>
@@ -687,7 +697,7 @@ Caramel Milk Tea</Name>
     <Description />
   </item>
   <item>
-    <idNum>64</idNum>
+    <idNum>65</idNum>
     <Category>Toppings </Category>
     <Name>Boba  Tapioca
 Crystal Boba
@@ -700,26 +710,17 @@ Rainbow Jelly
 Grass Jelly
 Pandan Jelly
 </Name>
-    <Price_1>75¢</Price_1>
+    <Price_1>75</Price_1>
     <Price_2 />
     <Price_3 />
     <Price_4 />
     <Description />
   </item>
   <item>
-    <idNum>65</idNum>
-    <Category>Toppings </Category>
-    <Name>Fresh Mango</Name>
-    <Price_1>95¢</Price_1>
-    <Price_2 />
-    <Price_3 />
-    <Price_4 />
-  </item>
-  <item>
     <idNum>66</idNum>
     <Category>Toppings </Category>
-    <Name>Fresh Strawberry</Name>
-    <Price_1>95¢</Price_1>
+    <Name>Fresh Mango</Name>
+    <Price_1>95</Price_1>
     <Price_2 />
     <Price_3 />
     <Price_4 />
@@ -727,14 +728,23 @@ Pandan Jelly
   <item>
     <idNum>67</idNum>
     <Category>Toppings </Category>
-    <Name>Sparkle Whipcream</Name>
-    <Price_1>65¢</Price_1>
+    <Name>Fresh Strawberry</Name>
+    <Price_1>95</Price_1>
     <Price_2 />
     <Price_3 />
     <Price_4 />
   </item>
   <item>
     <idNum>68</idNum>
+    <Category>Toppings </Category>
+    <Name>Sparkle Whipcream</Name>
+    <Price_1>65</Price_1>
+    <Price_2 />
+    <Price_3 />
+    <Price_4 />
+  </item>
+  <item>
+    <idNum>69</idNum>
     <Category>Toppings </Category>
     <Name>Mango
 Passion Fruit
@@ -743,7 +753,7 @@ Lychee
 Peach
 Pomegranate
 Blueberry</Name>
-    <Price_1>95¢</Price_1>
+    <Price_1>95</Price_1>
     <Price_2 />
     <Price_3 />
     <Price_4 />

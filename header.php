@@ -1,19 +1,19 @@
 <?php
-      	$text = ' ';
+    $text = ' ';
 		$i = 0;
 		$banh = 0;
 		$snacks = 7;
 		$slim = 19;
 		$entree = 23;
-		$dessert = 26;
-		$dessert_drink = 30;
-		$frozen = 36;
-		$fusion = 45;
-		$milk = 47;
-		$four = 52;
-		$coffee = 61;
-		$topping = 64;
-        $readOnlyArray = array(37,36,45,46,47,64,68);
+		$dessert = 27;
+		$dessert_drink = 31;
+		$frozen = 37;
+		$fusion = 46;
+		$milk = 48;
+		$four = 53;
+		$coffee = 62;
+		$topping = 65;
+    $readOnlyArray = array(38,37,46,47,48,65,69);
 
 		if(isset($_POST['all'])) {
 			$text = ' ';

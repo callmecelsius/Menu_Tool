@@ -5,12 +5,17 @@
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
   <?php include 'header.php' ?>
-  <!-- Code Adapted from 'PHP - Update Data in XML File' by  razormist -->
+  <!-- Model fuctionality Adapted from 'PHP - Update Data in XML File' by  razormist -->
   <!-- https://www.sourcecodester.com/tutorials/php/13137/php-update-data-xml-file.html -->
 
   <style>
     td {
       white-space: pre-line;
+    }
+
+    #main-buttons {
+      margin: auto;
+      text-align: center;
     }
   </style>
 
@@ -26,6 +31,13 @@
       <form method="post">
         <?php include 'buttons.php' ?>
       </form>
+      <hr style="border-top:1px dotted #ccc;" />
+      <div id="main-buttons">
+        <form action="export.php">
+          <?php echo '<input type="submit" name="export" value="Generate Menu" />'; ?>
+        </form>
+      </div>
+
       <thead class="alert-info">
         <th>Category</th>
         <th>Name</th>
