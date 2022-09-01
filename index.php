@@ -35,11 +35,11 @@
       <div class="main-buttons">
         <form action="./php-files/export.php">
           <?php echo '<input type="submit" name="export" value="Download Menu" />'; ?>
+          <?php echo '<input type="submit" name="transfer" value="Update Current" />'; ?>
         </form>
         <hr style="border-top:1px dotted #ccc;" />
         <form method='POST' action="./php-files/reset.php">
           <?php echo '<input type="submit" name="reset" value="Clear Edits" />'; ?>
-          <?php echo '<input type="submit" name="transfer" value="Update Current" />'; ?>
           <?php echo '<input type="submit" name="restore" value="Restore Backup" />'; ?>
         </form>
       </div>
