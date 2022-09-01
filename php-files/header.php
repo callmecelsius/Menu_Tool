@@ -13,7 +13,7 @@
 		$four = 53;
 		$coffee = 62;
 		$topping = 65;
-    $readOnlyArray = array(38,37,46,47,48,65,69);
+    $cents_array = array(65,66,67,68,69);
 
 		if(isset($_POST['all'])) {
 			$text = ' ';

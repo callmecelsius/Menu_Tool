@@ -97,7 +97,10 @@
                           <div class="col-md-6">
                             <div class="form-group">
                               <label>Current Price 1</label>
-                              <input type="text" class="form-control" name="price1" value="<?php echo $xml2->item[$i_index_php]->Price_1; ?>" readonly="readonly" />
+                              <input type="text" class="form-control" name="price1" value="<?php echo $xml2->item[$i_index_php]->Price_1; ?> <?php if (in_array($row->idNum, $cents_array)) {
+                                                                                                                                                echo '(cents)';
+                                                                                                                                              } ?>" readonly="readonly" />
+
                             </div>
                             <div class="form-group">
                               <label>Price 1</label>
