@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<data>
+  <item>
+    <idNum>0</idNum>
+    <Category>Banh Mi</Category>
+    <Name>Deluxe</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>1</idNum>
+    <Category>Banh Mi</Category>
+    <Name>BBQ Beef</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>2</idNum>
+    <Category>Banh Mi</Category>
+    <Name>BBQ Pork</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>3</idNum>
+    <Category>Banh Mi</Category>
+    <Name>BBQ Chicken</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>4</idNum>
+    <Category>Banh Mi</Category>
+    <Name>Shredded Chicken</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>5</idNum>
+    <Category>Banh Mi</Category>
+    <Name>Veggie</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>6</idNum>
+    <Category>Banh Mi</Category>
+    <Name>Fried Egg</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>7</idNum>
+    <Category>Snacks </Category>
+    <Name>Fried Dumplings</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>Beef Bulgogi (5pcs)</Description>
+  </item>
+  <item>
+    <idNum>8</idNum>
+    <Category>Snacks </Category>
+    <Name>Eggrolls</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>(4pcs)</Description>
+  </item>
+  <item>
+    <idNum>9</idNum>
+    <Category>Snacks </Category>
+    <Name>French Fries</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>10</idNum>
+    <Category>Snacks </Category>
+    <Name>Cool Ranch Fries</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>11</idNum>
+    <Category>Snacks </Category>
+    <Name>Sweet Potato Fries</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>12</idNum>
+    <Category>Snacks </Category>
+    <Name>Popcorn Chicken</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>13</idNum>
+    <Category>Snacks </Category>
+    <Name>Special Popcorn Chicken</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>Tamarind Sauce With Mango And Cucumber</Description>
+  </item>
+  <item>
+    <idNum>14</idNum>
+    <Category>Snacks </Category>
+    <Name>Pandan Wings</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>15</idNum>
+    <Category>Snacks </Category>
+    <Name>Pandan Special Wings</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>Tamarind Sauce With Mango And Cucumber (5pcs)</Description>
+  </item>
+  <item>
+    <idNum>16</idNum>
+    <Category>Snacks </Category>
+    <Name>Kimchi Fries</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>(chicken or beef)</Description>
+  </item>
+  <item>
+    <idNum>17</idNum>
+    <Category>Snacks </Category>
+    <Name>Fried Fish Balls</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>(9pcs)</Description>
+  </item>
+  <item>
+    <idNum>18</idNum>
+    <Category>Snacks </Category>
+    <Name>Fried Tofu</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+  </item>
+  <item>
+    <idNum>19</idNum>
+    <Category>Slim Rolls</Category>
+    <Name>Classic</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>20</idNum>
+    <Category>Slim Rolls</Category>
+    <Name>Beef</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>21</idNum>
+    <Category>Slim Rolls</Category>
+    <Name>Chicken</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>22</idNum>
+    <Category>Slim Rolls</Category>
+    <Name>Veggie</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>23</idNum>
+    <Category>Entree </Category>
+    <Name>House Fried Rice</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Chinese Sausages With Egg, Carrots, and Baby Green Peas</Description>
+  </item>
+  <item>
+    <idNum>24</idNum>
+    <Category>Entree </Category>
+    <Name>Vermicelli Bowl</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Choice Of Meat With Lettuce, Carrots, Daikon, Cucumber, And Fish Sauce</Description>
+  </item>
+  <item>
+    <idNum>25</idNum>
+    <Category>Entree </Category>
+    <Name>Grilled Rice Plate</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Choice Of Meat With Lettuce, Carrots, Daikon, and Cucumber</Description>
+  </item>
+  <item>
+    <idNum>26</idNum>
+    <Category>Entree </Category>
+    <Name>Egg or Eggrolls Addon</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>27</idNum>
+    <Category>Desserts </Category>
+    <Name>Macaroon</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>28</idNum>
+    <Category>Desserts </Category>
+    <Name>Waffle</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>29</idNum>
+    <Category>Desserts </Category>
+    <Name>Flan</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>30</idNum>
+    <Category>Desserts </Category>
+    <Name>Cream Puff Box</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>(5ct)</Description>
+  </item>
+  <item>
+    <idNum>31</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Avocado Blitz</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Tapioca, Combo Jellies,Coconut &amp; Condensed Milk</Description>
+  </item>
+  <item>
+    <idNum>32</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Pandan Special</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-White, Red, &amp; Mung Beans. With Taro, Pandan Jellies, Tapioca &amp;
+Coconut Milk</Description>
+  </item>
+  <item>
+    <idNum>33</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Paradise</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Coconut Water &amp; Meat, Longan, Basil Seeds, Pandan Jellies &amp;
+Tapioca</Description>
+  </item>
+  <item>
+    <idNum>34</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Tropix</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Longan, Lychee, Jackfruit, Palm Seed Pandan Jellies,
+Tapioca, &amp;  Coconut Milk</Description>
+  </item>
+  <item>
+    <idNum>35</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Artichoke Drink</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Artichoke Tea, Basil Seeds, Grass Jelly, Rainbow Jellies,  &amp; Longan</Description>
+  </item>
+  <item>
+    <idNum>36</idNum>
+    <Category>Dessert Drinks</Category>
+    <Name>Coconut Kumquat</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>-Coconut Juice, Coconut Meat,  &amp; Kumquat</Description>
+  </item>
+  <item>
+    <idNum>37</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Strawberry
+Matcha
+Cantaloupe
+Peach
+Honeydew
+Coconut
+Kiwi
+Mango
+Lychee
+Lime Berry
+Pina Colada
+Jackfruit
+</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>38</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Blueberry Banana
+Strawberry Banana
+Taro
+Cookies n Cream
+      </Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>39</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Papaya</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>40</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Avocado</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>41</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Watermelon</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>42</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Greener Gee</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>43</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Pom Power</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>44</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Mangonada</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>45</idNum>
+    <Category>Blended Ice</Category>
+    <Name>Kiwi</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>46</idNum>
+    <Category>Fusion Tea</Category>
+    <Name>Lychee
+Pomegranate
+Raspberry
+Passionfruit
+Mango
+Honeydew
+Strawberry
+Watermelon
+Pineapple
+Grapefruit
+Winter Melon
+Honey Green Tea
+Guava
+Grape
+</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>47</idNum>
+    <Category>Fusion Tea</Category>
+    <Name>Longan
+Honey Oolong
+Honey Raspberry
+Strawberry Storm
+Strawberry Lemonade
+Peach Tea</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>48</idNum>
+    <Category>Milk Tea</Category>
+    <Name>Jasmine Milk Tea
+Black Milk Tea
+Golden Milk Tea
+Taro Milk Tea
+Thai Green Tea
+Thai Tea
+Matcha Milk Tea
+Coconut Milk Tea
+Caramel Milk Tea</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>49</idNum>
+    <Category>Milk Tea</Category>
+    <Name>Brown Sugar Fresh Milk</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>50</idNum>
+    <Category>Milk Tea</Category>
+    <Name>Coffee Milk Tea</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>51</idNum>
+    <Category>Milk Tea</Category>
+    <Name>Pandan Leaf's #1</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>52</idNum>
+    <Category>Milk Tea</Category>
+    <Name>Pandan Leaf's #2</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>53</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Coconut Peach</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>54</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Passion Jackfruit</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>55</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Strawberry Mango</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>56</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Kiwi Berry</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>57</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Big Berry</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>58</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Lychee Twist</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>59</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Fresh Fruit Tea</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>60</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Peach Lemongrass</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>61</idNum>
+    <Category>Four Seasons Tea</Category>
+    <Name>Apple Cooler</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description>Fruit jelly, Fresh Apple</Description>
+  </item>
+  <item>
+    <idNum>62</idNum>
+    <Category>Coffee </Category>
+    <Name>Vietnamese Coffee</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>63</idNum>
+    <Category>Coffee </Category>
+    <Name>Hazelnut Mocha</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>64</idNum>
+    <Category>Coffee </Category>
+    <Name>Signature Viet Coffee</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>65</idNum>
+    <Category>Toppings </Category>
+    <Name>Boba  Tapioca
+Crystal Boba
+Basil Seeds
+StrawberryJelly
+Pineapple Jelly
+Coffee Jelly
+Mango Jelly
+Rainbow Jelly
+Grass Jelly
+Pandan Jelly
+</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+  <item>
+    <idNum>66</idNum>
+    <Category>Toppings </Category>
+    <Name>Fresh Mango</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+  </item>
+  <item>
+    <idNum>67</idNum>
+    <Category>Toppings </Category>
+    <Name>Fresh Strawberry</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+  </item>
+  <item>
+    <idNum>68</idNum>
+    <Category>Toppings </Category>
+    <Name>Sparkle Whipcream</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+  </item>
+  <item>
+    <idNum>69</idNum>
+    <Category>Toppings </Category>
+    <Name>Mango
+Passion Fruit
+Strawberry
+Lychee
+Peach
+Pomegranate
+Blueberry</Name>
+    <Price_1/>
+    <Price_2/>
+    <Price_3/>
+    <Price_4/>
+    <Description/>
+  </item>
+</data>
