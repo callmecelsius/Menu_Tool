@@ -13,7 +13,7 @@
       white-space: pre-line;
     }
 
-    #main-buttons {
+    .main-buttons {
       margin: auto;
       text-align: center;
     }
@@ -32,7 +32,7 @@
     <hr style="border-top:1px dotted #ccc;" />
 
     <table class="table table-bordered table-striped" style="margin-top:20px;">
-      <div id="main-buttons">
+      <div class="main-buttons">
         <form action="./php-files/export.php">
           <?php echo '<input type="submit" name="export" value="Download Menu" />'; ?>
         </form>
@@ -44,9 +44,11 @@
         </form>
       </div>
       <hr style="border-top:1px dotted #ccc;" />
-      <form method="post">
-        <?php include './php-files/buttons.php' ?>
-      </form>
+      <div class="main-buttons">
+        <form method="post">
+          <?php include './php-files/buttons.php' ?>
+        </form>
+      </div>
 
       <thead class="alert-info">
         <th>Category</th>
@@ -78,37 +80,43 @@
                     <form method="POST" action="./php-files/update.php">
                       <div class="modal-header">
                         <center>
-                          <h4 class="modal-title" id="myModalLabel">Edit Member</h4>
+                          <h4 class="modal-title" id="myModalLabel">Edit Item</h4>
                         </center>
                       </div>
                       <div class="modal-body">
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
-                          <div class="form-group">
+                          <div class="form-group" hidden>
                             <label>Num</label>
                             <input type="text" class="form-control" name="id" value="<?php echo $row->idNum; ?>" readonly="readonly" />
                           </div>
-                          <div class="form-group">
+                          <div class="form-group col-md-12">
                             <label>Name</label>
-                            <input type="text" class="form-control" name="name" value="<?php echo $row->Name; ?>" <?php if (in_array($row->idNum, $readOnlyArray)) {
-                                                                                                                    echo 'readonly="readonly"';
-                                                                                                                  } ?> />
+                            <input type="text" class="form-control" name="name" value="<?php echo $row->Name; ?>" readonly="readonly" />
                           </div>
-                          <div class="form-group">
-                            <label>Current Price 1</label>
-                            <input type="text" class="form-control" name="price1" value="<?php echo $xml2->item[$i_index_php]->Price_1; ?>" readonly="readonly" />
+                          <div class="col-md-6">
+                            <div class="form-group">
+                              <label>Current Price 1</label>
+                              <input type="text" class="form-control" name="price1" value="<?php echo $xml2->item[$i_index_php]->Price_1; ?>" readonly="readonly" />
+                            </div>
+                            <div class="form-group">
+                              <label>Price 1</label>
+                              <input type="text" class="form-control" name="price1" value="<?php echo $row->Price_1; ?>" pattern="\S(.*\S)?">
+                            </div>
                           </div>
-                          <div class="form-group">
-                            <label>Price 1</label>
-                            <input type="text" class="form-control" name="price1" value="<?php echo $row->Price_1; ?>">
+                          <div class="col-md-6">
+                            <div class="form-group">
+                              <label>Current Price 2</label>
+                              <input type="text" class="form-control" name="price2" value="<?php echo $xml2->item[$i_index_php]->Price_2; ?>" readonly="readonly" />
+                            </div>
+                            <div class="form-group">
+                              <label>Price 2</label>
+                              <input type="text" class="form-control" name="price2" value="<?php echo $row->Price_2; ?>" pattern="\S(.*\S)?">
+                            </div>
                           </div>
-                          <div class="form-group">
-                            <label>Current Price 2</label>
-                            <input type="text" class="form-control" name="price2" value="<?php echo $xml2->item[$i_index_php]->Price_2; ?>" readonly="readonly" />
-                          </div>
-                          <div class="form-group">
-                            <label>Price 2</label>
-                            <input type="text" class="form-control" name="price2" value="<?php echo $row->Price_2; ?>">
+                          <div class="col-md-12" style="text-align: center;">
+                            <p>Form does <u>not</u> accept whitespace</p>
+                            <p>ex: '&nbsp;&nbsp;&nbsp;&nbsp;1.00' or '1.00&nbsp;&nbsp;'</p>
                           </div>
                         </div>
                       </div>
